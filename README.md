@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Natural Language Processing<br>🎯 Goals: I want to become a Machine Learning Engineer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Natural Language Processing<br>🎯 Goals: Build scalable systems that don't break (most of the time)</p>
 
 ###
 
