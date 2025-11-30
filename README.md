@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Natural Language Processing<br>🎯 Goals: Build scalable systems that don't break (most of the time)</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning low level programming<br>🎯 Goals: Build scalable systems that don't break (most of the time)</p>
 
 ###
 
